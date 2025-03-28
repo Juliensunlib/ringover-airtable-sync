@@ -1,0 +1,12 @@
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers environnement
+.env
+*.log
+
+# IDE
+.vscode/
+.idea/

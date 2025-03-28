@@ -1,0 +1,2 @@
+2025-03-28 09:52:58,409 - ERROR: Erreur lors de la récupération des appels : 401 Client Error: Unauthorized for url: https://api.ringover.com/v2/calls?start_date=2025-03-27T09%3A52%3A58.305275&end_date=2025-03-28T09%3A52%3A58.305275&limit=1000
+2025-03-28 09:52:58,409 - INFO: Aucun nouvel appel à synchroniser
