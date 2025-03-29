@@ -25,4 +25,4 @@ jobs:
         AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
         BASE_ID: ${{ secrets.BASE_ID }}
         TABLE_NAME: ${{ secrets.TABLE_NAME }}
-      run: python ringover_sync.py
+      run: python ringover.py
